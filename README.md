@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Amirreza Rezaei 👋
 
-<!--
-**Amirreza-Rezaei/Amirreza-Rezaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.Sc. student in **Data Science** at the **University of Tehran**, with a strong foundation in Statistics. My academic and research focus lies at the intersection of data science and statistical machine learning.
 
-Here are some ideas to get you started:
+### 🔬 Research & Interests
+- Statistical Machine Learning
+- Survival Analysis 
+- Generalized Linear Model (GLM) Trees
+- Partially Additive Linear Model (PALM) Trees
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **Languages:** R, Python, SQL
+- **Tools:** VS Code, Git, LaTeX (xepersian)
+
+### 📈 Current Focus
+I am currently working on advanced implementations of PALM-Surv models and preparing for further academic milestones.
